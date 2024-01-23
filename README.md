@@ -19,9 +19,7 @@ Before you begin, ensure you have met the following requirements:
 - MySQL database
 - Power BI Desktop
 
-## How to Use
-
-### Installation
+### How to Use
 
 1. Clone the repository:
 
@@ -42,9 +40,9 @@ Before you begin, ensure you have met the following requirements:
     ```
     This will start collecting metrics and storing them in the MySQL database.
 
-5. Open the Power BI file [PowerBI/PC_Performance.pbix](PowerBI/PC_Performance.pbix)to visualize the performance metrics in real-time.
+5. Open the Power BI file [PowerBI/PC_Performance.pbix](PowerBI/PC_Performance.pbix) to visualize the performance metrics in real-time.
 
-### Usage
+## Usage
 
 1. Start the monitoring script to collect real-time data.
 
