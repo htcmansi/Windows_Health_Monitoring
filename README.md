@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     pip install -r requirements.txt
     ```
-3. Set up the MySQL database using the schema in [database/WHM.sql].#
+3. Set up the MySQL database using the schema in (database/WHM.sql).
 
 4. Run the data collection script:
 
@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
     ```
 This will start collecting metrics and storing them in the MySQL database.
 
-5. Open the Power BI file [PowerBI/MyPCPerformance.pbix] to visualize the performance metrics in real-time.
+5. Open the Power BI file (PowerBI/MyPCPerformance.pbix) to visualize the performance metrics in real-time.
 
 ### Usage
 
