@@ -1,4 +1,4 @@
-## Windows Health Monitoring
+# Windows Health Monitoring
 
 Windows Health Monitoring is a real-time system monitoring project that tracks and visualizes key performance metrics on a Windows machine.
 
