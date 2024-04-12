@@ -7,7 +7,7 @@ Windows Health Monitoring is a real-time system monitoring project that tracks a
 ## Features   
 
 - Real-time monitoring of CPU, memory, network, and disk.
-- Data collection using Python and psutil library.
+- Data collection using Python and psutil library. 
 - Storage of metrics in MySQL database.
 - Visualization of insights through Power BI, using DAX for creating a dashboard named "Mansi's PC Performance."
 
