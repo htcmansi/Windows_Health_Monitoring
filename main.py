@@ -16,7 +16,7 @@ def get_usage():
     disk_usage = psutil.disk_usage('/')
     disk_percent = disk_usage.percent
 
-    # Return the collected usage data
+    # Return the collected usage data.
     return cpu_percent, memory_percent, bytes_sent, bytes_recv, read_bytes, write_bytes, disk_percent
 
 def save_to_database(data):
